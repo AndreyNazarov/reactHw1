@@ -1,0 +1,15 @@
+.transactionHistory {
+  width: 100%;
+  border: 1px solid black;
+}
+
+.bodyStile {
+  padding: 10px;
+  margin-bottom: 10px;
+  list-style: none;
+  border: 1px solid black;
+}
+
+.headerStyle {
+  background-color: rgb(210, 237, 245);
+}

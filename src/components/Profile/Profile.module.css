@@ -1,0 +1,53 @@
+.container {
+  padding: 10px;
+  width: 370px;
+  background: #d2d3d3;
+  box-shadow: 0px 2px 1px rgba(0, 0, 0, 0.2), 0px 1px 1px rgba(0, 0, 0, 0.14),
+    0px 1px 3px rgba(0, 0, 0, 0.12);
+  border-radius: 0px 0px 4px 4px;
+}
+
+.avatar {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 100%;
+  width: 50%;
+}
+
+.name {
+  text-align: center;
+  font-size: large;
+  font-weight: bold;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.tag {
+  text-align: center;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.location {
+  text-align: center;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.stats {
+  border-top: 1px solid #e4e9f0;
+  display: flex;
+  justify-content: space-between;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+.label {
+  color: #520404;
+  display: block;
+  font-size: 14px;
+  padding-bottom: 2px;
+}
+
+.quantity {
+  font-weight: bold;
+  font-size: 17px;
+}
